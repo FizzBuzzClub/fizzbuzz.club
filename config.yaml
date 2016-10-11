@@ -1,0 +1,12 @@
+title: FizzBuzz Club
+languageCode: en-us
+baseurl: https://fizzbuzz.club/
+theme: vec
+menu:
+  main:
+    - Name: posts
+      URL: /post
+params:
+  Avater: fizzbuzzclub-logo.png
+  Description: FizzBuzz Club
+  SelfIntro: FizzBuzz Club
